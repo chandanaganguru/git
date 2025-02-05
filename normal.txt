@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 this is first line from dev1
 
 second line from giff 2
+=======
+<<<<<<< HEAD
+this is first line 
+this is second line 
+done by dev 2
+=======
+this is first line from dev1
+>>>>>>> cbad157a0d55475c8f708b1e7017f73343ea4421
+>>>>>>> 5e275ceaab4885785ade02ab53cc99acebcf9b64
